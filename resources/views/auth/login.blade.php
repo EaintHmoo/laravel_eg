@@ -28,7 +28,7 @@
                     <div class="mx-auto">
                         <h3>Example Project</h3>
                         <p>
-
+                            Change SSH Key
                         </p>
                     </div>
                 </div>
