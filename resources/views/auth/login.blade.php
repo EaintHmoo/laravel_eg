@@ -26,7 +26,7 @@
                         class="img-fluid authentication-cover-img" data-app-light-img="pages/login-light.png"
                         data-app-dark-img="pages/login-dark.png" />
                     <div class="mx-auto">
-                        <h3>Example Project CI/CD Test</h3>
+                        <h3>Example Project</h3>
                         <p>
 
                         </p>
@@ -44,7 +44,7 @@
                         <a href="index.html" class="app-brand-link gap-2 mb-2">
                             <span class="app-brand-logo demo">
                             </span>
-                            <span class="app-brand-text demo h3 mb-0 fw-bolder text-dark">Example Project CI/CD Test</span>
+                            <span class="app-brand-text demo h3 mb-0 fw-bolder text-dark">Example Project</span>
                         </a>
                     </div>
                     <!-- /Logo -->
