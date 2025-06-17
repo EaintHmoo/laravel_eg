@@ -26,7 +26,7 @@
                         class="img-fluid authentication-cover-img" data-app-light-img="pages/login-light.png"
                         data-app-dark-img="pages/login-dark.png" />
                     <div class="mx-auto">
-                        <h3>Example Project CI/CD Testing</h3>
+                        <h3>Example Project CI/CD Test</h3>
                         <p>
 
                         </p>
