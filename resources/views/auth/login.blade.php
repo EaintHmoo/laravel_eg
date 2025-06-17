@@ -44,11 +44,11 @@
                         <a href="index.html" class="app-brand-link gap-2 mb-2">
                             <span class="app-brand-logo demo">
                             </span>
-                            <span class="app-brand-text demo h3 mb-0 fw-bolder text-dark">Example Project</span>
+                            <span class="app-brand-text demo h3 mb-0 fw-bolder text-dark">Example Project CI/CD Test</span>
                         </a>
                     </div>
                     <!-- /Logo -->
-                    <h4 class="mb-2">Welcome!</h4>
+                    <h4 class="mb-2">Welcome! CI/CD Test</h4>
                     <p class="mb-4">Please sign-in to your account and start the adventure</p>
 
                     <form id="formAuthentication" class="mb-3" method="POST" action="{{ route('login') }}">
